@@ -17,6 +17,7 @@
 | The Next Frontier in UHECR Research with an Upgraded Pierre Auger Observatory (for Snowmass) | http://arxiv.org/abs/1307.0226, see also http://augerpc.in2p3.fr |
 | Workshop: Ions at the Future Hadron Collider, December 2013 | https://indico.cern.ch/conferenceTimeTable.py?confId=288576#all.detailed | 
 | | |
+| Collaboration Board newsletter, including rules on how to approve (!!!) Ph.D. thesis | https://cms.web.cern.ch/news/cb-newsletter-9-december-2013 |
 | | |
 | CMS Calorimeter trigger upgrade progress review Thursday, 15 August 2013 from 14:00 to 18:00 (Europe/Zurich) at CERN ( 40-5-A01 )  | https://indico.cern.ch/conferenceDisplay.py?confId=265363 |
 | AlCaDB meeting chaired by Roberto Castello (UC Louvain (BE)), Marco De Mattia (Purdue University (US)), Andreas Pfeiffer (CERN) Monday, 5 August 2013 from 15:00 to 17:00 (Europe/Zurich) at CERN ( 42-3-032 ), Validation of Castor conditions, sign-off of conditions for 2013 pPb re-reco | https://indico.cern.ch/conferenceDisplay.py?confId=226717 |
@@ -37,6 +38,8 @@
 | HIN-13-001 approval, dijets in pPb | https://indico.cern.ch/conferenceDisplay.py?confId=250169 |
 | | |
 | Heavy Ion group critical tasks, manpower, new organisation, twiki a table of tasks | https://indico.cern.ch/getFile.py/access?contribId=0&resId=3&materialId=slides&confId=238860, see also https://twiki.cern.ch/twiki/bin/viewauth/CMS/HIServiceTasks |
+| Matt's summary of re-reco HI 2011 plans | https://indico.cern.ch/conferenceDisplay.py?confId=282093 |
+| PPD summary and plans in December CMS Bulletin, certification, validation | https://cds.cern.ch/journal/CMSBulletin/2013/3/Articles/1636179?ln=en |
 | | |
 | CMS+TOTEM / CMS-TOTEM analysis tree in cvs | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CMSTotem/CMStree/ |
 | Camelia's configs for MinBias UPC re-reco [of 2011] | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CMironov/ppRecoOnHiPeripheral/mbUpcPD/ |
@@ -85,6 +88,7 @@
 | Guenter Quast's page with material for students (ROOT etc) | http://www-ekp.physik.uni-karlsruhe.de/~quast/ |
 | ROOT Manual on using / drawing trees | http://root.cern.ch/download/doc/ROOTUsersGuideHTML/ch12s20.html | 
 | CMS data - public; several python example scripts for analysis | http://cms.web.cern.ch/content/cms-public-data |
+| More of CMS public data, see in particular Tom's summary | https://indico.cern.ch/conferenceDisplay.py?confId=286761 |
 | Workbook on CMS analysis with python | https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookFWLitePython |
 | MC toy pull test to investigate background fit in Higgs to mumu analysis | http://web.ihepa.ufl.edu/~jhugon/pullsTest.py, see also output picture http://web.ihepa.ufl.edu/~jhugon/Pulls.png | 
 | Durham HepData Project, example of python+ROOT script and matplotlib | http://hepdata.cedar.ac.uk/view/10.1016/j.physletb.2012.05.063/d3/pyroot.py;jsessionid=12euq9dflkatq, http://hepdata.cedar.ac.uk/view/10.1016/j.physletb.2012.05.063/d2/mpl |
@@ -120,6 +124,7 @@
 | Heavy Ion reco and MC meeting | https://indico.cern.ch/conferenceDisplay.py?confId=247719 |
 | Exclusive Upsilon production by David and Co | https://twiki.cern.ch/twiki/bin/viewauth/CMS/ExclusiveUpsilonBeginnersLog2013 |
 | Harmonics in pPb | https://twiki.cern.ch/twiki/bin/viewauth/CMS/PPbHarmonics |
+| Generic framework for anisotropic flow analyses with multi-particle azimuthal correlations | http://arxiv.org/abs/1312.3572 |
 | Heavy Ion group messangers: skype, gtalk, git | https://twiki.cern.ch/twiki/bin/viewauth/CMS/CmsHiGroupMessangers | 
 | Heavy Flavor meson studies in Heavy Ion collisions | https://twiki.cern.ch/twiki/bin/view/CMS/HIHF2013 | 
 | | |
@@ -166,4 +171,9 @@ http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/CondTools/Hcal/test/dumpCastorC
 | Yandex shkola analiza dannyh | http://tech.yandex.ru/education/ |
 | | |
 | David's summary of FSQ results and prospects at CMS week December 2013 | https://indico.cern.ch/getFile.py/access?contribId=139&sessionId=7&resId=0&materialId=slides&confId=282471 |
-
+| | |
+| Position in Nova Gorica | https://inspirehep.net/record/1269048 |
+| | |
+| Guitares for Sascha | http://www.thomann.de/de/3-4_konzertgitarren.html, www.quoka.de/alle-rubriken/kleinanzeigen.html |
+| | |
+| NAF 1.0 to 2.0 | https://indico.desy.de/getFile.py/access?sessionId=19&resId=0&materialId=0&confId=8029 |
