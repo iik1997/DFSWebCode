@@ -1,0 +1,169 @@
+---+ !!Collection of links
+
+%TOC{title="Contents:"}%
+
+---++  1 The List
+
+| *Title* | *Link* |
+| CMS safety FAQ (safety courses, work packages, accesses) | http://cms-safety.web.cern.ch/cms-safety/faq.php |
+| | |
+| Snowmass Energy Frontier Workshop from Wednesday, April 3, 2013 at 08:00 to Saturday, April 6, 2013 at 18:00 (US/Eastern) at Berkner Hall, BNL, first one before Mississippi | https://indico.bnl.gov/conferenceDisplay.py?confId=571, http://www.bnl.gov/snowmass2013/ |
+| Snowmass on the Mississippi: QCD and the Strong Force | http://www.snowmass2013.org/tiki-index.php?page=Quantum+Chromodynamics+and+the+Strong+Force |
+| Incandela at Snowmass on the Mississippi on Global LHC / CMS future / Upgrades | https://indico.fnal.gov/getFile.py/access?contribId=221&sessionId=14&resId=0&materialId=slides&confId=6890 | 
+| Snowmass practice talks: Higgs + New Physics | https://indico.cern.ch/conferenceDisplay.py?confId=265359 |
+| Snowmass Working Group Reports, see also http://elementy.ru/LHC/news?theme=2653111&newsid=432126 | http://www-public.slac.stanford.edu/snowmass2013/SnowmassWorkingGroupReports.html |
+| Denisov's explanations about Snowmass process, project selection process, budget difficulties | http://indico.cern.ch/conferenceDisplay.py?confId=282136 | 
+| Projected Performance of an Upgraded CMS Detector at the LHC and HL-LHC: Contribution to the Snowmass Process | http://arxiv.org/abs/1307.7135 |
+| The Next Frontier in UHECR Research with an Upgraded Pierre Auger Observatory (for Snowmass) | http://arxiv.org/abs/1307.0226, see also http://augerpc.in2p3.fr |
+| Workshop: Ions at the Future Hadron Collider, December 2013 | https://indico.cern.ch/conferenceTimeTable.py?confId=288576#all.detailed | 
+| | |
+| | |
+| CMS Calorimeter trigger upgrade progress review Thursday, 15 August 2013 from 14:00 to 18:00 (Europe/Zurich) at CERN ( 40-5-A01 )  | https://indico.cern.ch/conferenceDisplay.py?confId=265363 |
+| AlCaDB meeting chaired by Roberto Castello (UC Louvain (BE)), Marco De Mattia (Purdue University (US)), Andreas Pfeiffer (CERN) Monday, 5 August 2013 from 15:00 to 17:00 (Europe/Zurich) at CERN ( 42-3-032 ), Validation of Castor conditions, sign-off of conditions for 2013 pPb re-reco | https://indico.cern.ch/conferenceDisplay.py?confId=226717 |
+| | |
+| CMS UserCode Migration FAQs, cvs to git | http://cms-sw.github.io/cmssw/usercode-faq | 
+| git FAQs | http://cms-sw.github.io/cmssw/faq.html#how_do_i_subscribe_to_github |
+| | |
+| Performance Plots approval Run Meeting chaired by Maria Chamizo Llatas (Centro de Investigaciones Energ. Medioambientales y Tecn. - (ES), Gregory Rakness (Univ. of California Los Angeles (US)), Christophe Delaere (Universite Catholique de Louvain (BE)) Tuesday, 16 July 2013 from 15:30 to 18:00 (Europe/Zurich) at CERN ( 40-S2-A01 - Salle Andersson ) | https://indico.cern.ch/conferenceDisplay.py?confId=262539 | 
+| Performance Plot Approval Meeting chaired by Maria Chamizo Llatas (Centro de Investigaciones Energ. Medioambientales y Tecn. - (ES), Gregory Rakness (Univ. of California Los Angeles (US)), Christophe Delaere (Universite Catholique de Louvain (BE)), Friday, 3 May 2013 from 14:00 to 16:00 (Europe/Zurich) at CERN, including muon invariant massspectrum in a wide range | https://indico.cern.ch/conferenceDisplay.py?confId=248966 |
+| | |
+| QCD at cosmic energies VI, Paris workshop (including Tanguy, Ralf, Hauke) | https://indico.cern.ch/conferenceTimeTable.py?confId=252570#all.detailed |
+| Trento Workshop on proton-nucleus collisions at the LHC | https://indico.cern.ch/conferenceOtherViews.py?view=cdsagenda&confId=216368 |
+| | |
+| LHC Seminar Intriguing results from p-Pb collisions at the LHC by Jan Fiete Grosse-Oetringhaus (CERN) Tuesday, 16 July 2013 from 11:00 to 12:00 (Europe/Zurich) at CERN ( 503-1-001 - Council Chamber ), Analysis of data of the short p-Pb pilot run in fall 2012, analysis of 2013 p-Pb | http://indico.cern.ch/conferenceDisplay.py?confId=262551 |
+| pPb ridge effect in Symmetry journal | http://www.symmetrymagazine.org/article/may-2013/smallest-lab-made-drop-of-liquid-might-cause-strange-particle-behavior?email_issue=207 |
+| pPb ridge by ATLAS | http://arxiv.org/abs/1303.2084 |
+| Particle angular correlations in ALICE, a thesis | http://cds.cern.ch/record/1500870/files/CERN-THESIS-2012-210.pdf |
+| HIN-13-001 approval, dijets in pPb | https://indico.cern.ch/conferenceDisplay.py?confId=250169 |
+| | |
+| Heavy Ion group critical tasks, manpower, new organisation, twiki a table of tasks | https://indico.cern.ch/getFile.py/access?contribId=0&resId=3&materialId=slides&confId=238860, see also https://twiki.cern.ch/twiki/bin/viewauth/CMS/HIServiceTasks |
+| | |
+| CMS+TOTEM / CMS-TOTEM analysis tree in cvs | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CMSTotem/CMStree/ |
+| Camelia's configs for MinBias UPC re-reco [of 2011] | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CMironov/ppRecoOnHiPeripheral/mbUpcPD/ |
+| CMSSW interface to EPOS in cvs | https://cmssdt.cern.ch/SDT/lxr/source/GeneratorInterface/ReggeGribovPartonMCInterface/python/ReggeGribovPartonMC_EposLHC_2760GeV_pp_cfi.py |
+| | |
+| Forward and Small-x QCD (FSQ) PAG meeting chaired by Jonathan Jason Hollar (Universite Catholique de Louvain (BE)), David d'Enterria (CERN) Tuesday, 18 June 2013 from 16:00 to 19:00 (Europe/Zurich) at CERN ( 40-S2-B01 - Salle Bohr ), review of FSQ analyses and milestones | https://indico.cern.ch/conferenceDisplay.py?confId=250767 |
+| | |
+| LHC Working Group on Forward Physics and Diffraction, chaired by Nicolo Cartiglia (INFN), Christophe Royon (CEA/IRFU,Centre d'etude de Saclay Gif-sur-Yvette (FR)) from Wednesday, 15 May 2013 at 09:00 to Thursday, 16 May 2013 at 18:00 (Europe/Zurich) at CERN  | https://indico.cern.ch/conferenceOtherViews.py?view=standard&confId=250487 |
+| FORWARD PHYSICS AT THE LHC Workshop, REGGIO CALABRIA, ITALY, July 15- 18 2013, first of the series | http://www-d0.fnal.gov/~royon/diffraction_calabria/ |
+| Diffractive and exclusive processes chaired by Antonio Vilela Pereira (Universidade do Estado do Rio de Janeiro (BR)), Benoit Roland (University of Antwerp (BE)) Thursday, 13 June 2013 from 15:00 to 16:30 (Europe/Zurich) at CERN ( 42-R-407 ), status resports from all analyses, including Colin's | https://indico.cern.ch/conferenceDisplay.py?confId=248577 |
+| Minutes of diffractive meeting summarizing Colin's status in April 2013 | https://indico.cern.ch/getFile.py/access?resId=0&materialId=minutes&confId=241888 |
+| Diffraction at the LHC V.A. Khoze A.D. Martin and M.G. Ryskin, two-channel eikonal model with one effective pomeron | http://arxiv.org/pdf/1306.2149v1.pdf |
+| High Energy Elastic and Diffractive Cross Sections V.A. Khoze, A.D. Martin, M.G. Ryskin, trying to make delta-eta and TOTEM x-sections meet together | http://arxiv.org/pdf/1312.3851v1.pdf |
+| Review of diffraction at high energies by Frnakfurt and Strikman | http://arxiv.org/abs/1304.4308 |
+| Soft diffractive analysis by Robert | http://cms.cern.ch/iCMS/jsp/analysis/admin/analysismanagement.jsp?ancode=FSQ-12-005 |
+| Update on inclusive diffraction by Robert: details on extrapolation arguments, comparison to TOTEM | https://indico.cern.ch/conferenceDisplay.py?confId=248571, see also DIS aproval https://indico.cern.ch/conferenceDisplay.py?confId=246832 |
+| CMS diffractive talks at Blois 2013 | https://cms-mgt-conferences.web.cern.ch/cms-mgt-conferences/conferences/conf_display.aspx?cid=1178 |
+| Link to the first Castor paper: underlying event in pp at different energies | http://link.springer.com/article/10.1007%2FJHEP04%282013%29072 |
+| Konrad's energy flow presentation at an FSQ meeting | https://indico.cern.ch/conferenceDisplay.py?confId=232826 |
+| | |
+| 7th Annual Workshop of the Helmholtz Alliance "Physics at the Terascale" 2-4 December 2013 KIT - Campus Nord, The workshop aims at bringing together the whole Alliance community, reviewing the status and progress of the resarch topics and discussing future directions and projects. | https://indico.desy.de/conferenceDisplay.py?confId=8029 |
+| ECFA Approval Marathon from Thursday, 26 September 2013 at 10:00 to Monday, 30 September 2013 at 18:00 (Europe/Zurich) at CERN, physics | https://indico.cern.ch/conferenceDisplay.py?confId=274321 |
+| ECFA plots approval Run Organization Meeting chaired by Maria Chamizo Llatas (Centro de Investigaciones Energ. Medioambientales y Tecn. - (ES), Gregory Rakness (Univ. of California Los Angeles (US)), Christophe Delaere(Universite Catholique de Louvain (BE)) Friday, 20 September 2013 from 14:00 to 18:00 (Europe/Zurich) at CERN ( 40-S2-A01 - Salle Anderson ), including HF and HE radiation damage | https://indico.cern.ch/conferenceDisplay.py?confId=273098 |
+| ECFA Detector Panel Meeting - Open Session chaired by Yannis Karyotakis (LAPP, Université de Savoie, CNRS/IN2P3) from Monday 04 November 2013 at 13:00 to Tuesday 05 November 2013 at 14:00 (Europe/Berlin) at DESY Hamburg ( Sem-room 4 ), TPC for the Linear Collider, electronics, SW, simulation | https://indico.desy.de/conferenceDisplay.py?confId=8573 |
+| | |
+| Jaime's presentation to the HI Flow group on event plane with Castor | https://twiki.cern.ch/twiki/pub/CMS/FlowHIRun2013/FlowMeeting_JaimeGomez_6_10_2013.pdf |
+| Jaime's forward analyser in cvs (with FSC hack ?) | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/Jgomez2/Analyzers/ForwardAnalyzer/src/ForwardAnalyzer_FSC.cc?view=markup |
+| Your / Igor Katkov's publication in EPJ of proceedings of ISVHECRI 2012 – XVII International Symposium on Very High Energy Cosmic Ray Interactions | http://www.epj-conferences.org/index.php?option=com_toc&url=/articles/epjconf/abs/2013/13/contents/contents.html |
+| HIN East Meeting Friday, 22 November 2013 from 12:00 to 14:20 (Europe/Zurich) at CERN ( 40-2-A01 ), plans of Heavy Ion group for QM2014, Lev's summary of HF response 2011 vs 2013 | https://indico.cern.ch/conferenceDisplay.py?confId=284559 |
+| HIN meeting during CMS week in December 2013, more plans for QM2014 | https://indico.cern.ch/conferenceDisplay.py?confId=273153 |
+| | |
+| Discussion of online courses like edX on DW.DE (rus) | http://dw.de/p/18tb1 |
+| "God nauki Rossija-ES": uravnenie s neskol'kimi peremennymi: XFEL, Stazhirovki po programme Marii Sklodovskoj-Kjuri, granty Evropejskogo issledovatel'skogo soveta | http://dw.de/p/1AM1L |
+| Universitaet vs (Fach)hochschule | http://dw.de/p/J3TU |
+| XFEL Job offers | http://www.xfel.eu/organization/job_offers/ |
+| | |
+| Proton–nucleus collisions at the LHC: scientific opportunities and requiremen by David and others | http://iopscience.iop.org/0954-3899/39/1/015010/pdf/0954-3899_39_1_015010.pdf |
+| Absolute luminosity measurements with the LHCb detector at the LHC, procedure, systematic checks explained | http://iopscience.iop.org/1748-0221/7/01/P01010/pdf/1748-0221_7_01_P01010.pdf#page=48&zoom=auto,0,612 |
+| Measurement of CMS Luminosity (first publication on that?) | https://cds.cern.ch/record/1279145/files/EWK-10-004-pas.pdf |
+| FBCT vs DCCT beam intensities for VdM scan | Here is the <a href="https://hypernews.cern.ch/HyperNews/CMS/get/AUX/2013/05/26/23:40:59-42236-vdm_intensities.png"/>link</a> |
+| Marco Zanetti talk on Lumi calibration procedures | http://indico.cern.ch/getFile.py/access?contribId=21&sessionId=1&resId=1&materialId=slides&confId=109784 |
+| LHC lumi calibration page | http://lpc.web.cern.ch/lpc/lumicalib.htm |
+| Luminosity measurement for the 2013 proton-ion run CADI | http://cms.cern.ch/iCMS/jsp/analysis/admin/analysismanagement.jsp?ancode=LUM-13-002 |
+| | |
+| Uebungen zu Moderne Methoden der Datenanalyse im Sommersemester 2012 | http://www-ekp.physik.uni-karlsruhe.de/~zupanc/SS12/ |
+| Guenter Quast's page with material for students (ROOT etc) | http://www-ekp.physik.uni-karlsruhe.de/~quast/ |
+| ROOT Manual on using / drawing trees | http://root.cern.ch/download/doc/ROOTUsersGuideHTML/ch12s20.html | 
+| CMS data - public; several python example scripts for analysis | http://cms.web.cern.ch/content/cms-public-data |
+| Workbook on CMS analysis with python | https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookFWLitePython |
+| MC toy pull test to investigate background fit in Higgs to mumu analysis | http://web.ihepa.ufl.edu/~jhugon/pullsTest.py, see also output picture http://web.ihepa.ufl.edu/~jhugon/Pulls.png | 
+| Durham HepData Project, example of python+ROOT script and matplotlib | http://hepdata.cedar.ac.uk/view/10.1016/j.physletb.2012.05.063/d3/pyroot.py;jsessionid=12euq9dflkatq, http://hepdata.cedar.ac.uk/view/10.1016/j.physletb.2012.05.063/d2/mpl |
+| Bersteins polynomials as used in Higgs to gamma-gamma analysis | https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit/blob/master/interface/RooBernsteinFast.h |
+| Fancy Visualization of HepMC data | https://github.com/mcviz/mcviz/wiki |
+| | |
+| RANDOMIZACIJa I BUTSTREP: statisticheskij analiz dannyh po biologii i jekologii s ispol'zovaniem R. V.K. Shitikov, G.S. Rozenberg. Institut jekologii Volzhskogo bassejna RAN , 445003, Tol'jatti, ul.Komzina, 10. Internet-versija, 306 s. | http://www.ievbras.ru/ecostat/Kiril/Article/A32/Stare.htm |
+| CDF Statistics Committee Recommendations, reach collection of useful links on statistics | http://www-cdf.fnal.gov/physics/statistics/statistics_recommendations.html |
+| | |
+| CmsHI jet analysis BuildFile in cvs | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CmsHi/JetAnalysis/BuildFile.xml?view=markup | 
+| Jyothsna's MC filter in cvs | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/jyothsna/SingleTopMCFilter/TopMCFilter/ |
+| HCAL Text to DetID in cvs | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/CalibFormats/HcalObjects/src/HcalText2DetIdConverter.cc?view=markup |
+| HCAL DPG, Summary on CMSSW releases by Salavat, Lev's report on HF simulation | https://indico.cern.ch/conferenceDisplay.py?confId=252077 | 
+| | |
+| HowTo apply patches, also in git | https://drupal.org/patch/apply, see also http://docs.joomla.org/Learn_more_about_patch_files, http://docs.moodle.org/dev/How_to_apply_a_patch, http://jungels.net/articles/diff-patch-ten-minutes.html |
+| CMS Managment Board meeting, incuding Memorandum of Agreement with TOTEM on proton spectrometer | https://indico.cern.ch/conferenceDisplay.py?confId=282923 |
+| Weekly Offline Meetings chaired by Elizabeth Sexton-Kennedy (Fermi National Accelerator Lab. (US)), Fabio Cossutti (Istituto Nazionale di Fisica Nucleare (INFN)), Peter Elmer (Princeton University (US)) from Monday, 1 April 2013 at 08:00 to Friday, 5 April 2013 at 18:00 (Europe/Zurich) at CERN: fastsim hadronic response, HCAL upgrade simulation, event display, migration to git | https://indico.cern.ch/conferenceDisplay.py?confId=244580 |
+| | |
+| T2_US_VANDERBILT Internal Site Test: Skimming, monitoring | http://cms.accre.vanderbilt.edu/skims/skim_test.html | 
+| | |
+| Particle flow / PF analyser from HiForest in cvs | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CmsHi/JetAnalysis/src/HiPFCandAnalyzer.cc?view=markup |
+| Extra gen reco, jet reconstruction ? | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CmsHi/JetAnalysis/python/ExtraGenReco_cff.py?revision=1.3&view=markup |
+| Heavy Ion event analyser, example of simple code and config with collision event selection and centrality | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CmsHi/HiHLTAlgos/test/hiEvtAnalyzer_cfg.py?view=markup, http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/CmsHi/HiHLTAlgos/src/HiEvtAnalyzer.cc?diff_format=s&view=markup |
+| Track analyser, match to simtracks, to PF | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/MitHig/PixelTrackletAnalyzer/src/TrackAnalyzer.cc?hideattic=0&view=markup |
+| Multi-photon analyser | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/QCDPhotonAnalysis/DataAnalyzers/plugins/MultiPhotonAnalyzer.cc?view=markup |
+| Dijet analysis macro | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/UserCode/yenjie/MptAna/dijetMPT.C?view=markup | 
+| Centrality instructions for pPb | https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideHeavyIonCentrality#Specific_instructions_for_pPb_20 |
+| Centrality in pPb LPCC workshop preparation | https://indico.cern.ch/conferenceDisplay.py?confId=288573, see also Yetkins input to HardProbes13 https://cms-mgt-conferences.web.cern.ch/cms-mgt-conferences/conferences/pres_display.aspx?cid=1103&pid=8476 |
+| One of first presentations on collision event selection in pPb | https://twiki.cern.ch/twiki/pub/CMS/PA2013DailyMeetings/130120-yenjie-EvtSel.pdf |
+| HINWest meeting in April 2013 on centrality, ZDC, validation | https://indico.cern.ch/conferenceDisplay.py?confId=238862 |
+| Phenix Measurements of Et distributions in p-p, d+Au and Au+Au at sqrt(sNN)=200 GeV and analysis based on Constituent-Quark-Participants, Galuber tests | https://indico.cern.ch/conferenceDisplay.py?confId=287879 |
+| Monika's summary on pPb, Pbp, and pp lumi at HI East meeting in April 2013 | https://indico.cern.ch/conferenceDisplay.py?confId=243879 |
+| Heavy Ion reco and MC meeting | https://indico.cern.ch/conferenceDisplay.py?confId=247719 |
+| Exclusive Upsilon production by David and Co | https://twiki.cern.ch/twiki/bin/viewauth/CMS/ExclusiveUpsilonBeginnersLog2013 |
+| Harmonics in pPb | https://twiki.cern.ch/twiki/bin/viewauth/CMS/PPbHarmonics |
+| Heavy Ion group messangers: skype, gtalk, git | https://twiki.cern.ch/twiki/bin/viewauth/CMS/CmsHiGroupMessangers | 
+| Heavy Flavor meson studies in Heavy Ion collisions | https://twiki.cern.ch/twiki/bin/view/CMS/HIHF2013 | 
+| | |
+| Erstes ReparaturCafé in Karlsruhe – Reparieren statt kaufen! | http://quartierzukunft.de/erstes-reparaturcafe-in-karlsruhe-reparieren-statt-kaufen/ |
+| | |
+| LHC Physics Discussion (at DESY): QCD and Higgs, talk by Hannes among others | https://indico.desy.de/conferenceDisplay.py?confId=7888 |
+| A byl li mal'chik? (about Higgs)| http://ebull.ru/dl/digest-044f.pdf |
+| | |
+| GOST: pravila napisanija otchetov | http://guap.ru/guap/standart/prav_main.shtml |
+| | |
+| Jimdo, user support, work in Hamburg | http://de.jimdo.com/jobs/community-support-russland/ | 
+| KIT - Karrieremesse | http://www.rsm.kit.edu/karrieremesse/index.php |
+| CMS week Panel Discussion: How I got a job in industry Thursday, 11 April 2013 from 19:00 to 22:00 (Europe/Zurich) at CERN | https://indico.cern.ch/conferenceDisplay.py?confId=240525 |
+| | |
+| Linear collider collaboration, options, detectors, world wide event | http://www.linearcollider.org/events/2013/ilc-tdr-world-wide-event |
+| Horizon 2020, Official Framework Programme for Research and Innovation Group | http://www.linkedin.com/groups?home=&gid=164166&trk=anet_ug_hm |
+| European Commission > European IPR Helpdesk > library > useful documents | http://www.iprhelpdesk.eu/library/useful-documents?field_documentclassification_tid[]=149 |
+| | |
+| FSC meeting in April 2013 with status of notes and LS1 plans | https://indico.cern.ch/conferenceDisplay.py?confId=250002 |
+| | |
+| Seminar RDMS | http://rdms.jinr.ru/ |
+| | |
+| Script to dump Castor conditions | 
+http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/CondTools/Hcal/test/dumpCastorCond_cfg.py?revision=1.2&content-type=text%2Fplain |
+| | |
+| Fixing geany bix for using with sshfs | http://blog.seder.internext.co.za/blog/2011/10/10/geany-over-sshfs/ |
+| | |
+| Geant4 short course for IEEE, lecture notes (~250 pages) | http://www.ge.infn.it/geant4/events/nss2013/geant4course.html#slides |
+| CERN Recruitment & Sourcing Seminar 2013 | http://www.youtube.com/watch?v=pPfBfSfHHis&feature=youtu.be&goback=.amf_3203674_5537874.gde_3203674_member_220102928 |
+| | |
+| HCAL validation | https://twiki.cern.ch/twiki/bin/viewauth/CMS/HcalValidation |
+| HCAL validation plots | https://cms-cpt-software.web.cern.ch/cms-cpt-software/General/Validation/SVSuite/HCAL/620pre1_vs_610_RelVal/ |
+| RelMon reports web-interface | http://cms-service-reldqm.web.cern.ch/cms-service-reldqm/cgi-bin/RelMon.py |
+| HCAL RecHit validation | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/Validation/HcalRecHits/src/HcalRecHitsValidation.cc?view=markup |
+| HCAL Digis validation | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/Validation/HcalDigis/src/ |
+| Summary of HCAL and Heavy Ion validation at a joint DQM/PdmV meeting, July 2013 | https://indico.cern.ch/conferenceDisplay.py?confId=226661, see also https://test-dqm-sequences.web.cern.ch/test-dqm-sequences/ | 
+| | |
+| Tiziano's program for the Spokesperson elections | https://indico.cern.ch/conferenceDisplay.py?confId=241976 |
+| | |
+| KIT twiki on user accounts: procedures, guest account etc | https://ikp-basewiki.fzk.de/index.php/Userhelp/New_User |
+| | |
+| Fancy picture of LHC accelerators, with beams, operation start, length | <a href="https://espace.cern.ch/LS1planning/SiteAssets/SitePages/Home/acc_45.gif"/>link</a> | 
+| | |
+| Yandex shkola analiza dannyh | http://tech.yandex.ru/education/ |
+| | |
+| David's summary of FSQ results and prospects at CMS week December 2013 | https://indico.cern.ch/getFile.py/access?contribId=139&sessionId=7&resId=0&materialId=slides&confId=282471 |
+
