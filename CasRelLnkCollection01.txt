@@ -59,6 +59,7 @@
 | CMS diffractive talks at Blois 2013 | https://cms-mgt-conferences.web.cern.ch/cms-mgt-conferences/conferences/conf_display.aspx?cid=1178 |
 | Link to the first Castor paper: underlying event in pp at different energies | http://link.springer.com/article/10.1007%2FJHEP04%282013%29072 |
 | Konrad's energy flow presentation at an FSQ meeting | https://indico.cern.ch/conferenceDisplay.py?confId=232826 |
+| FSQ group discussion on low pile-up running at Run 2 | https://indico.cern.ch/conferenceDisplay.py?confId=232857 |
 | | |
 | 7th Annual Workshop of the Helmholtz Alliance "Physics at the Terascale" 2-4 December 2013 KIT - Campus Nord, The workshop aims at bringing together the whole Alliance community, reviewing the status and progress of the resarch topics and discussing future directions and projects. | https://indico.desy.de/conferenceDisplay.py?confId=8029 |
 | ECFA Approval Marathon from Thursday, 26 September 2013 at 10:00 to Monday, 30 September 2013 at 18:00 (Europe/Zurich) at CERN, physics | https://indico.cern.ch/conferenceDisplay.py?confId=274321 |
