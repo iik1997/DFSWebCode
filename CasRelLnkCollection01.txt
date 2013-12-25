@@ -24,6 +24,7 @@
 | | |
 | CMS UserCode Migration FAQs, cvs to git | http://cms-sw.github.io/cmssw/usercode-faq | 
 | git FAQs | http://cms-sw.github.io/cmssw/faq.html#how_do_i_subscribe_to_github |
+| git tutorial during CMS week | https://indico.cern.ch/conferenceDisplay.py?confId=286055 |
 | | |
 | Performance Plots approval Run Meeting chaired by Maria Chamizo Llatas (Centro de Investigaciones Energ. Medioambientales y Tecn. - (ES), Gregory Rakness (Univ. of California Los Angeles (US)), Christophe Delaere (Universite Catholique de Louvain (BE)) Tuesday, 16 July 2013 from 15:30 to 18:00 (Europe/Zurich) at CERN ( 40-S2-A01 - Salle Andersson ) | https://indico.cern.ch/conferenceDisplay.py?confId=262539 | 
 | Performance Plot Approval Meeting chaired by Maria Chamizo Llatas (Centro de Investigaciones Energ. Medioambientales y Tecn. - (ES), Gregory Rakness (Univ. of California Los Angeles (US)), Christophe Delaere (Universite Catholique de Louvain (BE)), Friday, 3 May 2013 from 14:00 to 16:00 (Europe/Zurich) at CERN, including muon invariant massspectrum in a wide range | https://indico.cern.ch/conferenceDisplay.py?confId=248966 |
@@ -59,7 +60,7 @@
 | CMS diffractive talks at Blois 2013 | https://cms-mgt-conferences.web.cern.ch/cms-mgt-conferences/conferences/conf_display.aspx?cid=1178 |
 | Link to the first Castor paper: underlying event in pp at different energies | http://link.springer.com/article/10.1007%2FJHEP04%282013%29072 |
 | Konrad's energy flow presentation at an FSQ meeting | https://indico.cern.ch/conferenceDisplay.py?confId=232826 |
-| FSQ group discussion on low pile-up running at Run 2 | https://indico.cern.ch/conferenceDisplay.py?confId=232857 |
+| FSQ group discussion on low pile-up running at Run 2 | https://indico.cern.ch/conferenceDisplay.py?confId=232857, pile-up vs beam parameters http://lpc.web.cern.ch/lpc/lumi.html |
 | | |
 | 7th Annual Workshop of the Helmholtz Alliance "Physics at the Terascale" 2-4 December 2013 KIT - Campus Nord, The workshop aims at bringing together the whole Alliance community, reviewing the status and progress of the resarch topics and discussing future directions and projects. | https://indico.desy.de/conferenceDisplay.py?confId=8029 |
 | ECFA Approval Marathon from Thursday, 26 September 2013 at 10:00 to Monday, 30 September 2013 at 18:00 (Europe/Zurich) at CERN, physics | https://indico.cern.ch/conferenceDisplay.py?confId=274321 |
@@ -90,6 +91,7 @@
 | ROOT Manual on using / drawing trees | http://root.cern.ch/download/doc/ROOTUsersGuideHTML/ch12s20.html | 
 | CMS data - public; several python example scripts for analysis | http://cms.web.cern.ch/content/cms-public-data |
 | More of CMS public data, see in particular Tom's summary | https://indico.cern.ch/conferenceDisplay.py?confId=286761 |
+| Even more on CMS public data in CMS monthly newsletter | http://cms.web.cern.ch/news/lhc-data-be-made-public-open-access-initiative, see http://cmsinfo.web.cern.ch/cmsinfo/Resources/archive.html for CMS Times |
 | Workbook on CMS analysis with python | https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookFWLitePython |
 | MC toy pull test to investigate background fit in Higgs to mumu analysis | http://web.ihepa.ufl.edu/~jhugon/pullsTest.py, see also output picture http://web.ihepa.ufl.edu/~jhugon/Pulls.png | 
 | Durham HepData Project, example of python+ROOT script and matplotlib | http://hepdata.cedar.ac.uk/view/10.1016/j.physletb.2012.05.063/d3/pyroot.py;jsessionid=12euq9dflkatq, http://hepdata.cedar.ac.uk/view/10.1016/j.physletb.2012.05.063/d2/mpl |
@@ -162,6 +164,7 @@ http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/CondTools/Hcal/test/dumpCastorC
 | HCAL RecHit validation | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/Validation/HcalRecHits/src/HcalRecHitsValidation.cc?view=markup |
 | HCAL Digis validation | http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/Validation/HcalDigis/src/ |
 | Summary of HCAL and Heavy Ion validation at a joint DQM/PdmV meeting, July 2013 | https://indico.cern.ch/conferenceDisplay.py?confId=226661, see also https://test-dqm-sequences.web.cern.ch/test-dqm-sequences/ | 
+| Pedro on status of Castor DQM | https://indico.cern.ch/getFile.py/access?sessionId=0&resId=0&materialId=0&confId=281106 |
 | | |
 | Tiziano's program for the Spokesperson elections | https://indico.cern.ch/conferenceDisplay.py?confId=241976 |
 | | |
@@ -178,3 +181,4 @@ http://cmssw.cvs.cern.ch/cgi-bin/cmssw.cgi/CMSSW/CondTools/Hcal/test/dumpCastorC
 | Guitares for Sascha | http://www.thomann.de/de/3-4_konzertgitarren.html, www.quoka.de/alle-rubriken/kleinanzeigen.html |
 | | |
 | NAF 1.0 to 2.0 | https://indico.desy.de/getFile.py/access?sessionId=19&resId=0&materialId=0&confId=8029 |
+| EOS quotas, some instructiuons | https://twiki.cern.ch/twiki/bin/viewauth/CMS/T2CHCERN#Quotas |
